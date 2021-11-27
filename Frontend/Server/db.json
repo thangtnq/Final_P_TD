@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "dummy",
+      "content": "random",
+      "dateCreated": "Tue Nov 16 2021 15:23:45 GMT-0600 (Central Standard Time)",
+      "isComplete": false,
+      "dateCompleted": null,
+      "id": 22
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "testuser",
+      "password": "badpassword"
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "id": 2
+    }
+  ]
+}
